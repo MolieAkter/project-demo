@@ -1,0 +1,205 @@
+laptop_id,laptop_title,genres
+1,Notebook 14-df0008nx,core i3|4 GB ram|1 TB HDD|GTX 1660
+2,IdeaPad 330S-14IKB,core i5|4 GB ram|500 GB HDD|GTX 1030
+3,MateBook D Volta,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+4,Inspiron 15 3567,core i3|4 GB ram|1TB HDD|GTX 730
+5,VivoBook 15 X510UR,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+6,Vostro 5471,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+7,MacBook Air (Retina),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+8,MateBook D,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+9,MateBook X Pro,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+10,14-cf0007nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+11,15-db0001nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+12,Swift 5,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+13,MacBook Air,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+14,Swift 5 SF514-52TP-8933,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+15,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+16,Swift 3 SF314-52G,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+17,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+18,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+19,MateBook 13,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+20,MacBook Air (Retina),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+21,XPS 13 9380,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+22,Pavilion 13-an0001nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+23,MacBook Air (Retina),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+24,MacBook Air (Retina),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+25,Pavilion 14-ce0001nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+26,MacBook Air (Retina),core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+27,Pavilion 14-ce0000nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+28,MacBook Air (Retina),core a28|8 GB ram|2800 GB HDD|intel HD Graphics
+29,MateBook D Volta,core a29|8 GB ram|2900 GB HDD|intel HD Graphics
+29,ZenBook 14 UX433FN,core e29|8 GB ram|2900 GB HDD|intel HD Graphics
+30,VivoBook 14 S430FN,core i30|8 GB ram|3000 GB HDD|intel HD Graphics
+31,MateBook X Pro,core a31|8 GB ram|3100 GB HDD|intel HD Graphics
+32,Pavilion 14-ce2003nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+34,X543UB,core i3|4 GB ram|500 GB HDD|intel HD graphics
+36,Pavilion 14-ce2000nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+38,Pavilion 14-ce2001nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+39,IdeaPad 330S-14IKB,core i7|8 GB ram|3 TB HDD|GTX 1050 ti
+40,VivoBook S15 S530FN,core i40|8 GB ram|4000 GB HDD|intel HD Graphics
+41,VivoBook 15 X512UB,core i41|8 GB ram|4100 GB HDD|intel HD Graphics
+42,VivoBook 14 X412UB,core i42|8 GB ram|4200 GB HDD|intel HD Graphics
+43,X507UB,core i3|4 GB ram|500 GB HDD|intel HD graphics
+44,VivoBook 14 X412FJ,core i44|8 GB ram|4400 GB HDD|intel HD Graphics
+45,MacBook,core i3|4 GB ram|500 GB HDD|intel HD graphics
+46,MateBook D,core i3|4 GB ram|500 GB HDD|intel HD graphics
+47,MateBook D,core i3|4 GB ram|500 GB HDD|intel HD graphics
+48,MateBook 13,core i3|4 GB ram|500 GB HDD|intel HD graphics
+49,IdeaPad S530,core i3|4 GB ram|500 GB HDD|intel HD graphics
+50,XPS 13 9380,core  50|8 GB ram|5000 GB HDD|intel HD Graphics
+51,15-da1019nx,core i3|4 GB ram|2 TB HDD|intel HD Graphics
+52,15-da1003nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+53,XPS 15 9570,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+54,VivoBook 15 X512UF,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+55,Inspiron 15 3580,core i7|8 GB ram|3 TB HDD|GTX 1050 ti
+57,Aspire 5 A515-52G-75XJ,core i40|8 GB ram|4000 GB HDD|intel HD Graphics
+58,Inspiron 15 3580,core i41|8 GB ram|4100 GB HDD|intel HD Graphics
+60,MateBook D,core i42|8 GB ram|4200 GB HDD|intel HD Graphics
+61,IdeaPad 330,core i3|4 GB ram|500 GB HDD|intel HD graphics
+62,IdeaPad S340,core i44|8 GB ram|4400 GB HDD|intel HD Graphics
+63,Pavilion 15-cs2003nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+64,Swift 3 314,core i3|4 GB ram|500 GB HDD|intel HD graphics
+65,IdeaPad S340,core i3|4 GB ram|500 GB HDD|intel HD graphics
+66,IdeaPad S340,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+68,IdeaPad S145,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+69,Inspiron 15 3580,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+70,IdeaPad S340,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+71,14-cf1001nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+72,15-da1005nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+73,IdeaPad S340,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+74,IdeaPad 330-15IKBR,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+75,Inspiron 15 3581,core i5|4 GB ram|500 GB HDD|GTX 1030
+76,Aspire 3 A315-53-52ZL,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+77,Aspire 3 A315-53-341N,core i3|4 GB ram|1TB HDD|GTX 730
+78,Aspire 3 A315-53G,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+79,IdeaPad 330,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+80,IdeaPad S130-14IGM,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+81,IdeaPad 330S,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+82,VivoBook 14 X420UA,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+83,X540UB,core e29|8 GB ram|2900 GB HDD|intel HD Graphics
+85,MateBook 13,core i30|8 GB ram|3000 GB HDD|intel HD Graphics
+86,15-da1018nx,core a31|8 GB ram|3100 GB HDD|intel HD Graphics
+87,15-da1016nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+88,Aspire 3 A315-33-C6S9,core i3|4 GB ram|500 GB HDD|intel HD graphics
+89,X543UB,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+92,X543MA,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+93,Aspire 3 A315-53,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+94,Inspiron 15 3582,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+95,Inspiron 15 3573,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+96,Inspiron 15 5584,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+97,Swift 1 SF114-32-C4GB,core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+99,Aspire 3,core i3|4 GB ram|500 GB HDD|intel HD graphics
+100,Aspire 3 A315-54,core i3|4 GB ram|500 GB HDD|intel HD graphics
+101,Aspire 3 A315-54,core  50|8 GB ram|5000 GB HDD|intel HD Graphics
+102,Aspire 5 A515-54G,core i3|4 GB ram|2 TB HDD|intel HD Graphics
+103,Pavilion 15-cs2012nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+104,ZenBook S13 UX392FN,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+105,Pavilion 15-cs2011nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+106,MacBook Pro (Retina + Touch Bar)_1,core i42|8 GB ram|4200 GB HDD|intel HD Graphics
+107,MacBook Pro (Retina + Touch Bar)_2,core i3|4 GB ram|500 GB HDD|intel HD graphics
+108,MacBook Pro (Retina + Touch Bar)_3,core i44|8 GB ram|4400 GB HDD|intel HD Graphics
+110,MacBook Air (Retina) 1,core i3|4 GB ram|500 GB HDD|intel HD graphics
+111,MacBook Air (Retina)_2,core i3|4 GB ram|500 GB HDD|intel HD graphics
+112,MacBook Air (Retina)_3,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+113,MacBook Air (Retina)_4,core i5|4 GB ram|500 GB HDD|GTX 1030
+116,MacBook Air (Retina)_5,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+117,MacBook Air (Retina)_6,core i3|4 GB ram|1TB HDD|GTX 730
+118,MacBook Pro (Retina + Touch Bar)_4,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+119,Stream 14-cb003nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+121,MacBook Pro (Retina),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+122,Aspire 1 A114-31-C6WP,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+123,Surface,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+125,ENVY 13-ah0006nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+126,Swift 1 SF114-32-C4GB,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+128,Aspire 1 A114-31,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+129,XPS 13 9370,core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+132,Vostro 5471,core i3|4 GB ram|500 GB HDD|intel HD graphics
+135,Spectre 13-af001nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+137,XPS 13 9380,core i3|4 GB ram|1 TB HDD|GTX 1660
+140,ENVY 13-ah0001nx,core i5|4 GB ram|500 GB HDD|GTX 1030
+141,MacBook Pro (Retina),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+144,IdeaPad 330-15IGM,core i3|4 GB ram|1TB HDD|GTX 730
+145,ENVY 13-ah0002nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+146,XPS 13 9360,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+147,Vostro 5471,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+148,Inspiron 13 5370,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+149,Aspire 3 A315-53,core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+150,Vostro 5481,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+151,Vostro 5481,core i3|4 GB ram|1TB HDD|GTX 730
+152,Surface 2,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+153,Surface 2,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+154,Stream 14-cb104nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+155,Inspiron 14 5480,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+156,MacBook Pro (Retina + Touch Bar),core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+157,MacBook Pro (Retina + Touch Bar),core i3|4 GB ram|500 GB HDD|intel HD graphics
+158,MacBook Pro (Retina + Touch Bar),core i3|4 GB ram|500 GB HDD|intel HD graphics
+159,MacBook Pro (Retina + Touch Bar),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+160,GT83VR 7RF Titan SLI,core i3|4 GB ram|1TB HDD|GTX 730
+161,ROG G752VS,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+162,Predator 17 GX791 78ND,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+163,MacBook Pro (Retina),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+164,Alienware 15,core i3|4 GB ram|500 GB HDD|intel HD graphics
+165,XPS 15,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+166,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+168,ENVY 13-ab002nx,core i5|4 GB ram|500 GB HDD|GTX 1030
+169,ZenBook UX433FN,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+170,MacBook Pro (Retina + Touch Bar),core i3|4 GB ram|1TB HDD|GTX 730
+171,ENVY 13-ad002nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+172,MacBook,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+173,Pavilion 15-cs0006nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+174,VivoBook 15 X510UF,core i44|8 GB ram|4400 GB HDD|intel HD Graphics
+175,VivoBook S430,core i3|4 GB ram|500 GB HDD|intel HD graphics
+176,Pavilion 15-cs0001nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+177,Pavilion 15-cs0000nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+178,Swift 3 SF314-54G-87HB,core i3|4 GB ram|500 GB HDD|intel HD graphics
+179,VivoBook 15 X507UB,core  50|8 GB ram|5000 GB HDD|intel HD Graphics
+180,15-bs150nx,core i3|4 GB ram|2 TB HDD|intel HD Graphics
+181,Inspiron 3567,core i3|4 GB ram|500 GB HDD|intel HD graphics
+183,MacBook Pro (Retina),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+184,IdeaPad 330S-15IKB,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+185,Aspire 3 A315-53-34CE,core i3|4 GB ram|1TB HDD|GTX 730
+186,VivoBook 15 X540UA,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+187,IdeaPad 330-15IGM,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+188,IdeaPad 330S-14IKB,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+189,IdeaPad 330S-14IKB,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+190,14-bp101nx,core a31|8 GB ram|3100 GB HDD|intel HD Graphics
+191,MacBook Pro (Retina),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+193,14-ck0008nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+194,15-da0007nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+195,15-da0035nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+196,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+198,Pavilion 15-cs0003nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+199,15-bs007nx,core a26|8 GB ram|2600 GB HDD|intel HD Graphics
+201,IdeaPad 320-15IKBRA,core i7|8 GB ram|3 TB HDD|GTX 1050 ti
+202,ENVY 13-ad004nx,core i40|8 GB ram|4000 GB HDD|intel HD Graphics
+203,Pavilion 14-bf102nx,core i41|8 GB ram|4100 GB HDD|intel HD Graphics
+204,Inspiron 15 3567,core i42|8 GB ram|4200 GB HDD|intel HD Graphics
+205,Inspiron 15 5567,core i3|4 GB ram|500 GB HDD|intel HD graphics
+206,ENVY 13-ad001nx,core i44|8 GB ram|4400 GB HDD|intel HD Graphics
+207,ENVY 17-ae003nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+208,15-bs006nx,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+209,XPS 15,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+210,Aspire A315-51,core i5|4 GB ram|500 GB HDD|GTX 1030
+211,Pavilion 13-an0000nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+212,XPS 13 9360,core i3|4 GB ram|1TB HDD|GTX 730
+213,Aspire 5 A515-51G,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+214,ENVY 13-ad101nx,core i5|4 GB ram|500 GB HDD|GTX 1030
+215,Inspiron 15 5570,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+216,Inspiron 15 3567,core i3|4 GB ram|1TB HDD|GTX 730
+217,IdeaPad 320-15IKBRA,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+218,IdeaPad 320-14ISK,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+219,ZenBook UX430UN Ultrabook,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+220,Pavilion 15-cc006nx,core i3|4 GB ram|500 GB HDD|intel HD graphics
+221,Inspiron 15 3567,core i3|4 GB ram|500 GB HDD|intel HD graphics
+222,Inspiron 15 3567,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+223,ENVY 13-ab000nx,core i5|4 GB ram|500 GB HDD|GTX 1030
+224,MacBook Pro (Retina + Touch Bar),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+225,Pavilion 15-cc002nx,core i3|4 GB ram|1 TB HDD|GTX 1660
+226,MacBook Pro (Retina),core i5|4 GB ram|500 GB HDD|GTX 1030
+227,ENVY 13-ad100nx,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+228,Inspiron 15 3567,core i3|4 GB ram|1TB HDD|GTX 730
+229,IdeaPad 320-15IKBRN,core i5|8 GB ram|500 GB HDD|intel HD Graphics
+230,MateBook D,core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+231,MacBook Pro (Retina + Touch Bar),core i5|8 GB ram|500 GB HDD|intel HD Graphics
+232,MacBook Pro (Retina + Touch Bar),core i7|8 GB ram|1 TB HDD|GTX 1050 ti
+233,Inspiron 15 3576,core a26|8 GB ram|2600 GB HDD|intel HD Graphics
